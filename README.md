@@ -90,8 +90,11 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 👋 Hi, I'm Zain UL Abideen | Data Engineer
+
 I am passionate about Building scalable data pipelines that turn raw data into actionable insights
+
 🎓 Computer Engineering Graduate | 💡 Data Engineering Enthusiast | ☁️ Cloud-Native Advocate
+
 About Me
 I'm a data engineer who loves transforming messy data into clean, reliable pipelines. My passion lies in architecting robust data solutions that scale—whether it's processing terabytes in Spark or optimizing complex SQL queries that make databases sing.
 
