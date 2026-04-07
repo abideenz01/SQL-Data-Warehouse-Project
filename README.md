@@ -46,17 +46,25 @@ This project demonstrates a comprehensive data warehousing.
 ### The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers.
 <img width="1058" height="761" alt="Data Architecture Diagram drawio" src="https://github.com/user-attachments/assets/22df3da3-bbf5-46b7-b884-49d3d56d31c2" />
 
+---
+
 # Integration Model
 ### Integration Model describes integration of CRM and ERP Source System.
 <img width="812" height="657" alt="Integration Model drawio" src="https://github.com/user-attachments/assets/f488b525-0410-4c0d-b7b2-0296053819fd" />
+
+---
 
 # Data Flow
 ### Elaborates data flow from Source Systems to Gold Layer 
 <img width="777" height="379" alt="Data Flow Diagram drawio" src="https://github.com/user-attachments/assets/b16c31b7-2825-4cfd-9d42-c10cb15c9afd" />
 
+---
+
 # Data Model
 ## Star Schema Data Model consists of fact and dimension tables.
 <img width="993" height="586" alt="Gold_Layer_Sales_Data_Mart drawio" src="https://github.com/user-attachments/assets/81759570-f77b-480c-b327-eeadd46fa9eb" />
+
+---
 
 ## 📂 Repository Structure
 ```
