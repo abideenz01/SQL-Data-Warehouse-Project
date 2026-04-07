@@ -1,7 +1,7 @@
 
 ## Data Warehouse
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+Welcome to the **Data Warehouse** repository! 🚀  
 This project demonstrates a comprehensive data warehousing. 
 ---
 ## 🏗️ Data Architecture
