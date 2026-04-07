@@ -52,6 +52,11 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
+#### Data Architecture
+### The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers.
+
+
+<img width="416" height="392" alt="Data Architecture" src="https://github.com/user-attachments/assets/8a44650a-3f7d-4dc8-9e24-9f3bcb5fca86" />
 
 
 ## 📂 Repository Structure
@@ -81,6 +86,7 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
 
 
 ## 🛡️ License
